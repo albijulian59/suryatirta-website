@@ -1,0 +1,36 @@
+/* Daftar referensi proyek – sumber: Company Profile PT Surya Tirta Cemerlang
+   (Reference List of STC). Kolom "Supply To" sengaja tidak ditampilkan.
+   Format: [tahun, proyek, bidang, lokasi, aplikasi, pompa] */
+window.STC_PROJECTS = [
+  [2017, "Wisma Atlet", "Gedung", "Jakarta", "Plumbing Pump, HVAC", "Torishima & Tsurumi"],
+  [2017, "Cilegon Centre", "Gedung", "Cilegon", "Plumbing Pump, HVAC", "Torishima & Tsurumi"],
+  [2017, "Simone", "Pabrik", "Bogor", "Fire Pump 500 USGPM", "Ebara / Cummins"],
+  [2017, "Jeneponto S2P Extension", "PLN", "Sulawesi", "WWTP Pump", "Ebara"],
+  [2017, "GNP Project", "PLN", "Thailand", "WWTP Pump", "Torishima"],
+  [2017, "GBP Project", "PLN", "Thailand", "WWTP Pump", "Torishima"],
+  [2017, "GNL Project", "PLN", "Thailand", "WWTP Pump", "Torishima"],
+  [2018, "RSIA Amanah", "Gedung", "Probolinggo", "Fire Pump 500 USGPM", "Ebara"],
+  [2018, "Umbulan", "PDAM", "Surabaya", "Intake Pump", "CDMV Torishima"],
+  [2018, "Permata Buana Residence", "Gedung", "Jakarta", "Transfer Pump", "Torishima"],
+  [2018, "Lion Star", "Pabrik", "Jakarta", "Chiller Pump", "Torishima"],
+  [2019, "Selalu Cinta Indonesia", "Pabrik", "Salatiga", "Fire Pump", "SPP 1250 USGPM"],
+  [2019, "Twink Indonesia", "PLN", "Bekasi", "Fire Pump", "Ebara 750 USGPM"],
+  [2022, "Gardu Induk Pulo Gadung", "PLN", "Pulogadung", "Fire Pump", "Ebara 500 USGPM"],
+  [2022, "PV Inda", "Pabrik", "Sidoarjo", "Fire Pump", "Ebara 500 USGPM"],
+  [2023, "ABB Hitachi Peranap", "PLN", "Riau", "Fire Pump", "Ebara 500 USGPM"],
+  [2023, "ABB Hitachi Perawang", "PLN", "Riau", "Fire Pump", "Ebara 500 USGPM"],
+  [2023, "ABB Hitachi Jambi", "PLN", "Riau", "Fire Pump", "Ebara 500 USGPM"],
+  [2023, "Sanggar Saran Baja", "Pabrik", "Lahat", "Fire Pump", "CPC-G / Forward"],
+  [2023, "Gedung Golkar Kemanggisan", "Gedung", "Jakarta", "Fire Pump", "Torishima 750 USGPM"],
+  [2023, "Gedung Bulog", "Gedung", "NTB", "Fire Pump", "Torishima 750 USGPM"],
+  [2023, "Traktor Nusantara", "Pertambangan", "Makassar", "Fire Pump", "SPP 1250 USGPM"],
+  [2024, "Kino Sayung", "Pabrik", "Demak", "Fire Pump", "Ebara 500 USGPM"],
+  [2024, "Speed Young Tech", "Pabrik", "Cikarang", "Fire Pump", "Ebara 500 USGPM"],
+  [2024, "Pasar Modern Negara", "Gedung", "Bali", "Fire Pump", "Ebara 500 USGPM"],
+  [2024, "PAMA KPCT-WS Tyre Shop", "Pertambangan", "Kalimantan Timur", "Fire Pump, Booster Pump", "Ebara 1000 USGPM / Clarke"],
+  [2024, "Hotel Myze", "Gedung", "Jawa Timur", "Fire Pump", "Ebara 500 USGPM"],
+  [2024, "Rumah Pompa Mbah Ratu", "PDAM", "Surabaya", "Distribution Pump", "Torishima Split Case"],
+  [2024, "Flat Tanjung Semarang", "Gedung", "Semarang", "Fire Pump", "Ebara 750 USGPM"],
+  [2024, "Adhi Karya (IKN Sepaku)", "WTP", "Kalimantan", "Distribution Pump IKN Sepaku 300 lps", "Torishima"],
+  [2024, "Adhi Karya (IKN)", "WTP", "Kalimantan", "Back Wash Pump", "CAM Torishima"]
+];
